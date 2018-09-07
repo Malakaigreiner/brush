@@ -4,15 +4,12 @@ html, body {
 * {
   box-sizing: inherit;
 }
-
-  .page2{
+  html{
+    background: linear-gradient(to bottom right, #76bddb, #a57513);
     display: inline;
     font-family: 'Playfair Display', serif;
     overflow: hidden;
     color: red;
-  }
-  html{
-    background: linear-gradient(to bottom right, #76bddb, #a57513);
   }
 
   .toothperformance{
